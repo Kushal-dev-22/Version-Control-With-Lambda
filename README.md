@@ -45,11 +45,20 @@ A Lambda function consists of:
   - `Stage`
 - Aliases can be updated instantly without redeploying code
 
+<br>
+
 ## 🚀 Step-by-Step Guide:
 
 ### Step 1: Create the Lambda Function
 
 1. Sign in to **AWS Management Console**
+
+<br>
+    <p>
+        <img src='./images/1.jpeg' width="500" />
+    </p>
+<br>
+
 2. Navigate to **AWS Lambda**
 3. Click **Create function**
 4. Select **Author from scratch**
