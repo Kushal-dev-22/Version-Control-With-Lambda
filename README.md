@@ -142,8 +142,8 @@ A Lambda function consists of:
 4. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/11.jpeg' width="50%" />
-        <img src='./images/12.jpeg' width="50%" />
+        <img src='./images/11.jpeg' width="500" />
+        <img src='./images/12.jpeg' width="500" />
     </p>
 <br>
 
