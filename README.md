@@ -47,7 +47,7 @@ A Lambda function consists of:
 
 <br>
 
-## 🚀 Step-by-Step Guide:
+### 🚀 Step-by-Step Guide:
 
 ## Step 1: Create the Lambda Function
 
@@ -89,7 +89,7 @@ A Lambda function consists of:
 <br>
 
 
-### Step 2: Upload Initial Code (Version 1)
+## Step 2: Upload Initial Code (Version 1)
 
 1. Open your Lambda function
 2. Go to the **Code** tab
@@ -112,7 +112,7 @@ A Lambda function consists of:
 <br>
 
 
-### Step 3: Publish Version 1
+## Step 3: Publish Version 1
 
 1. Open the **Versions** tab
 2. Click **Publish new version**
@@ -120,8 +120,8 @@ A Lambda function consists of:
 4. Click **Publish**
 <br>
     <p align="center">
-        <img src='./images/9.jpeg' width="500" />
-        <img src='./images/10.jpeg' width="500" />
+        <img src='./images/9.jpeg' width="600" />
+        <img src='./images/10.jpeg' width="600" />
     </p>
 <br>
 
@@ -131,7 +131,7 @@ A Lambda function consists of:
 
 <br>
 
-### Step 4: Create `Prod` Alias
+## Step 4: Create `Prod` Alias
 
 1. Click on **Actions** drop down
 2. Click **Create alias**
@@ -142,8 +142,8 @@ A Lambda function consists of:
 4. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/11.jpeg' width="600" />
-        <img src='./images/12.jpeg' width="600" />
+        <img src='./images/11.jpeg' width="45%" />
+        <img src='./images/12.jpeg' width="45%" />
     </p>
 <br>
 
@@ -154,7 +154,7 @@ A Lambda function consists of:
     </p>
 <br>
 
-### Step 5: Upload Updated Code (Version 2)
+## Step 5: Upload Updated Code (Version 2)
 
 1. Return to the **Code** tab
 2. Upload `Version2.zip`
@@ -170,7 +170,7 @@ A Lambda function consists of:
 
 <br>
 
-### Step 6: Publish Version 2
+## Step 6: Publish Version 2
 
 1. Click on **Actions**
 2. Click **Publish new version**
@@ -199,7 +199,7 @@ A Lambda function consists of:
 
 <br>
 
-### Step 7: Create `Test` Alias
+## Step 7: Create `Test` Alias
 
 1. Click on **Actions** 
 2. Click **Create alias**
