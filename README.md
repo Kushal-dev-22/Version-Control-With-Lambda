@@ -120,8 +120,8 @@ A Lambda function consists of:
 4. Click **Publish**
 <br>
     <p align="center">
-        <img src='./images/9.jpeg' width="600" />
-        <img src='./images/10.jpeg' width="600" />
+        <img src='./images/9.jpeg' width="48%" />
+        <img src='./images/10.jpeg' width="48%" />
     </p>
 <br>
 
@@ -142,8 +142,8 @@ A Lambda function consists of:
 4. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/11.jpeg' width="500" />
-        <img src='./images/12.jpeg' width="500" />
+        <img src='./images/11.jpeg' width="450" />
+        <img src='./images/12.jpeg' width="450" />
     </p>
 <br>
 
