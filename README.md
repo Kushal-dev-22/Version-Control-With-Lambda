@@ -1,5 +1,5 @@
-# AWS Lambda Version Control & Alias Management
----
+### AWS Lambda Version Control & Alias Management
+
 ## 🚀 Why Use Lambda Versioning & Aliases?
 In real-world production systems, deploying changes directly to a Lambda function can cause:
 - Accidental outages
@@ -43,6 +43,7 @@ A Lambda function consists of:
 
 <br>
 ---
+
 ### 🚀 Step-by-Step Guide:
 
 ## Step 1: Create the Lambda Function
@@ -236,6 +237,7 @@ Once testing is successful:
     <p align="center">
         <img src='./images/25.png' width="600" />
     </p>
+
 ---
 
 ## ⏪ Rollback Strategy
@@ -254,8 +256,6 @@ If any issue occurs in production:
         <img src='./images/13.jpeg' width="600" />
     </p>
 <br>
----
-
 
 ## 🔐 Security & IAM Guidelines
 - Grant permissions to **aliases**, not versions
