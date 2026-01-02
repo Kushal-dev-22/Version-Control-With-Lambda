@@ -265,6 +265,7 @@ If any issue occurs in production:
 
 ⏱️ Rollback completes instantly
 <br>
+<br>
     <p align="center">
         <img src='./images/13.jpeg' width="600" />
     </p>
