@@ -97,10 +97,20 @@ A Lambda function consists of:
 4. Select **.zip file**
 5. Upload `Version1.zip`
 6. Click **Save**
+<br>
+    <p align="center">
+        <img src='./images/26.jpeg' width="600" />
+    </p>
+<br>
 
 ⚠️ Code is uploaded to `$LATEST` at this stage
 
----
+<br>
+    <p align="center">
+        <img src='./images/5.jpeg' width="600" />
+    </p>
+<br>
+
 
 ### Step 3: Publish Version 1
 
@@ -108,24 +118,41 @@ A Lambda function consists of:
 2. Click **Publish new version**
 3. Enter description (optional)
 4. Click **Publish**
+<br>
+    <p align="center">
+        <img src='./images/9.jpeg' width="600" />
+        <img src='./images/10.jpeg' width="600" />
+    </p>
+<br>
+
+
 
 ✅ Version **1** is now immutable
 
----
+<br>
 
 ### Step 4: Create `Prod` Alias
 
-1. Open the **Aliases** tab
+1. Click on **Actions** drop down
 2. Click **Create alias**
 3. Enter:
 - **Alias name**: `Prod`
 - **Version**: `1`
 - **Description** (optional)
-4. Click **Create**
+4. Click **Save**
+<br>
+    <p align="center">
+        <img src='./images/11.jpeg' width="600" />
+        <img src='./images/12.jpeg' width="600" />
+    </p>
+<br>
 
 ✅ Production traffic now points to **Version 1**
-
----
+<br>
+    <p align="center">
+        <img src='./images/13.jpeg' width="600" />
+    </p>
+<br>
 
 ### Step 5: Upload Updated Code (Version 2)
 
@@ -133,21 +160,67 @@ A Lambda function consists of:
 2. Upload `Version2.zip`
 3. Click **Save**
 
+<br>
+    <p align="center">
+        <img src='./images/14.jpeg' width="600" />
+    </p>
+<br>
+
 ⚠️ Only `$LATEST` is updated — production remains safe
 
----
+<br>
 
 ### Step 6: Publish Version 2
 
-1. Go to the **Versions** tab
+1. Click on **Actions**
 2. Click **Publish new version**
+
+<br>
+    <p align="center">
+        <img src='./images/16.jpeg' width="600" />
+    </p>
+<br>
 3. Enter description (optional)
 4. Click **Publish**
 
+<br>
+    <p align="center">
+        <img src='./images/17.jpeg' width="600" />
+    </p>
+<br>
+
 ✅ Version **2** is created
 
----
+<br>
+    <p align="center">
+        <img src='./images/18.jpeg' width="600" />
+    </p>
+<br>
 
+<br>
+
+### Step 7: Create `Test` Alias
+
+1. Click on **Actions** 
+2. Click **Create alias**
+3. Enter:
+- **Alias name**: `Test`
+- **Version**: `2`
+- **Description** (optional)
+4. Click **Save**
+<br>
+    <p align="center">
+        <img src='./images/19.jpeg' width="600" />
+        <img src='./images/20.jpeg' width="600" />
+    </p>
+<br>
+
+✅ Test traffic now points to **Version 2**
+<br>
+    <p align="center">
+        <img src='./images/13.jpeg' width="600" />
+    </p>
+<br>
 
 ## 🔁 Promote Test to Production
 
