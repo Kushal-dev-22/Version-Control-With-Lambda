@@ -49,7 +49,7 @@ A Lambda function consists of:
 
 ## 🚀 Step-by-Step Guide:
 
-### Step 1: Create the Lambda Function
+## Step 1: Create the Lambda Function
 
 1. Sign in to **AWS Management Console**
 
@@ -120,8 +120,8 @@ A Lambda function consists of:
 4. Click **Publish**
 <br>
     <p align="center">
-        <img src='./images/9.jpeg' width="600" />
-        <img src='./images/10.jpeg' width="600" />
+        <img src='./images/9.jpeg' width="500" />
+        <img src='./images/10.jpeg' width="500" />
     </p>
 <br>
 
