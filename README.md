@@ -180,6 +180,7 @@ A Lambda function consists of:
         <img src='./images/16.jpeg' width="600" />
     </p>
 <br>
+
 3. Enter description (optional)
 4. Click **Publish**
 
@@ -229,10 +230,27 @@ Once testing is successful:
 1. Open **Aliases**
 2. Click **Prod**
 3. Click **Edit**
+<br>
+    <p align="center">
+        <img src='./images/23.jpeg' width="600" />
+    </p>
+<br>
+
 4. Change **Version** from `1` → `2`
 5. Click **Save**
+<br>
+    <p align="center">
+        <img src='./images/24.jpeg' width="600" />
+    </p>
+<br>
 
 🚀 Production now runs Version 2 with **zero downtime**
+
+<br>
+    <p align="center">
+        <img src='./images/25.jpeg' width="600" />
+    </p>
+<br>
 
 ---
 
@@ -246,7 +264,11 @@ If any issue occurs in production:
 4. Save
 
 ⏱️ Rollback completes instantly
-
+<br>
+    <p align="center">
+        <img src='./images/13.jpeg' width="600" />
+    </p>
+<br>
 ---
 
 
@@ -256,7 +278,6 @@ If any issue occurs in production:
 - Control alias updates via IAM policies
 - Enable CloudWatch logging for traceability
 
----
 
 
 ## 📌 Final Takeaway
@@ -268,7 +289,6 @@ Lambda **versioning + aliases** provide:
 
 This workflow is the **gold standard** for managing AWS Lambda deployments using the AWS Console.
 
----
 
 
 
