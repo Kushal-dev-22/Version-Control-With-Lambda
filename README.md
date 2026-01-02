@@ -1,5 +1,5 @@
 # AWS Lambda Version Control & Alias Management
-
+---
 ## 🚀 Why Use Lambda Versioning & Aliases?
 In real-world production systems, deploying changes directly to a Lambda function can cause:
 - Accidental outages
@@ -27,15 +27,11 @@ A Lambda function consists of:
 - Runtime (Node.js, Python, Java, etc.)
 - Configuration (memory, timeout, environment variables)
 
----
-
 ### Lambda Versions
 - A **version** is an immutable snapshot of the Lambda function
 - Versions are numbered (`1`, `2`, `3`, ...)
 - Once published, a version **cannot be modified**
 - `$LATEST` is mutable and should **never** be used for production traffic
-
----
 
 ### Lambda Aliases
 - An **alias** is a logical pointer to a specific Lambda version
@@ -46,7 +42,7 @@ A Lambda function consists of:
 - Aliases can be updated instantly without redeploying code
 
 <br>
-
+---
 ### 🚀 Step-by-Step Guide:
 
 ## Step 1: Create the Lambda Function
@@ -125,11 +121,7 @@ A Lambda function consists of:
     </p>
 <br>
 
-
-
 ✅ Version **1** is now immutable
-
-<br>
 
 ## Step 4: Create `Prod` Alias
 
@@ -152,7 +144,6 @@ A Lambda function consists of:
     <p align="center">
         <img src='./images/13.jpeg' width="600" />
     </p>
-<br>
 
 ## Step 5: Upload Updated Code (Version 2)
 
@@ -168,7 +159,6 @@ A Lambda function consists of:
 
 ⚠️ Only `$LATEST` is updated — production remains safe
 
-<br>
 
 ## Step 6: Publish Version 2
 
@@ -196,9 +186,6 @@ A Lambda function consists of:
     <p align="center">
         <img src='./images/18.jpeg' width="600" />
     </p>
-<br>
-
-<br>
 
 ## Step 7: Create `Test` Alias
 
@@ -221,7 +208,6 @@ A Lambda function consists of:
     <p align="center">
         <img src='./images/13.jpeg' width="600" />
     </p>
-<br>
 
 ## 🔁 Promote Test to Production
 
@@ -250,8 +236,6 @@ Once testing is successful:
     <p align="center">
         <img src='./images/25.png' width="600" />
     </p>
-<br>
-
 ---
 
 ## ⏪ Rollback Strategy
