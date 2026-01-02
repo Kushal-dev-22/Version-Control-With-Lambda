@@ -42,6 +42,7 @@ A Lambda function consists of:
 - Aliases can be updated instantly without redeploying code
 
 <br>
+
 ---
 
 ### 🚀 Step-by-Step Guide:
