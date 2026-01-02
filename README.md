@@ -45,11 +45,6 @@ A Lambda function consists of:
   - `Stage`
 - Aliases can be updated instantly without redeploying code
 
----
-
-
----
-
 ## 🚀 Step-by-Step Guide:
 
 ### Step 1: Create the Lambda Function
