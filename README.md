@@ -55,7 +55,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/1.png' width="600" />
+        <img src='./images/1.jpeg' width="600" />
     </p>
 <br>
 
@@ -63,7 +63,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/2.png' width="600" />
+        <img src='./images/2.jpeg' width="600" />
     </p>
 <br>
 
@@ -71,7 +71,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/3.png' width="600" />
+        <img src='./images/3.jpeg' width="600" />
     </p>
 <br>
 
@@ -84,7 +84,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/4.png' width="600" />
+        <img src='./images/4.jpeg' width="600" />
     </p>
 <br>
 
@@ -107,7 +107,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/5.png' width="600" />
+        <img src='./images/5.jpeg' width="600" />
     </p>
 <br>
 
@@ -120,8 +120,8 @@ A Lambda function consists of:
 4. Click **Publish**
 <br>
     <p align="center">
-        <img src='./images/9.png' width="600" /><br><br>
-        <img src='./images/10.png' width="600" />
+        <img src='./images/9.jpeg' width="600" /><br><br>
+        <img src='./images/10.jpeg' width="600" />
     </p>
 <br>
 
@@ -142,15 +142,15 @@ A Lambda function consists of:
 4. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/11.png' width="500" /><br><br>
-        <img src='./images/12.png' width="500" />
+        <img src='./images/11.jpeg' width="500" /><br><br>
+        <img src='./images/12.jpeg' width="500" />
     </p>
 <br>
 
 ✅ Production traffic now points to **Version 1**
 <br>
     <p align="center">
-        <img src='./images/13.png' width="600" />
+        <img src='./images/13.jpeg' width="600" />
     </p>
 <br>
 
@@ -162,7 +162,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/14.png' width="600" />
+        <img src='./images/14.jpeg' width="600" />
     </p>
 <br>
 
@@ -177,7 +177,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/16.png' width="600" />
+        <img src='./images/16.jpeg' width="600" />
     </p>
 <br>
 
@@ -186,7 +186,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/17.png' width="600" />
+        <img src='./images/17.jpeg' width="600" />
     </p>
 <br>
 
@@ -194,7 +194,7 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/18.png' width="600" />
+        <img src='./images/18.jpeg' width="600" />
     </p>
 <br>
 
@@ -211,15 +211,15 @@ A Lambda function consists of:
 4. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/19.png' width="600" /><br><br>
-        <img src='./images/20.png' width="600" />
+        <img src='./images/19.jpeg' width="600" /><br><br>
+        <img src='./images/20.jpeg' width="600" />
     </p>
 <br>
 
 ✅ Test traffic now points to **Version 2**
 <br>
     <p align="center">
-        <img src='./images/13.png' width="600" />
+        <img src='./images/13.jpeg' width="600" />
     </p>
 <br>
 
@@ -266,7 +266,7 @@ If any issue occurs in production:
 ⏱️ Rollback completes instantly
 <br>
     <p align="center">
-        <img src='./images/13.png' width="600" />
+        <img src='./images/13.jpeg' width="600" />
     </p>
 <br>
 ---
