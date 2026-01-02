@@ -99,7 +99,7 @@ A Lambda function consists of:
 6. Click **Save**
 <br>
     <p align="center">
-        <img src='./images/26.jpeg' width="600" />
+        <img src='./images/26.png' width="600" />
     </p>
 <br>
 
