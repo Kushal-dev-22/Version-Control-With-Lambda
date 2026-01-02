@@ -54,7 +54,7 @@ A Lambda function consists of:
 1. Sign in to **AWS Management Console**
 
 <br>
-    <p>
+    <p align="center">
         <img src='./images/1.jpeg' width="500" />
     </p>
 <br>
