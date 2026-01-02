@@ -55,12 +55,26 @@ A Lambda function consists of:
 
 <br>
     <p align="center">
-        <img src='./images/1.jpeg' width="500" />
+        <img src='./images/1.jpeg' width="600" />
     </p>
 <br>
 
 2. Navigate to **AWS Lambda**
+
+<br>
+    <p align="center">
+        <img src='./images/2.jpeg' width="600" />
+    </p>
+<br>
+
 3. Click **Create function**
+
+<br>
+    <p align="center">
+        <img src='./images/3.jpeg' width="600" />
+    </p>
+<br>
+
 4. Select **Author from scratch**
 5. Provide:
    - **Function name**: `my-lambda-function`
@@ -68,7 +82,12 @@ A Lambda function consists of:
    - **Execution role**: Create or choose an IAM role
 6. Click **Create function**
 
----
+<br>
+    <p align="center">
+        <img src='./images/4.jpeg' width="600" />
+    </p>
+<br>
+
 
 ### Step 2: Upload Initial Code (Version 1)
 
